@@ -45,7 +45,6 @@ The following images showcase the system’s core functionalities in a grid layo
 |-------------|-----------------------|
 | ![SpO2 Output](images/spo2_output.png) | ![Blood Pressure Status](images/bp_status.png) |
 
-*Note*: Ensure images are uploaded to the `images` folder in the repository. See the guide below for instructions on creating and embedding images.
 
 ## Installation and Setup
 ### Prerequisites
