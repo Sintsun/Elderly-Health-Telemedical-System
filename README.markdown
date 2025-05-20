@@ -86,4 +86,4 @@ The following images showcase the system’s core functionalities in a grid layo
 - Technical Training II Manual
 
 ## License
-This project is for academic purposes only. Copyright © 2021 Tang Sin Tsun, Chung Chi Kin, Ng Long Hin.
+This project is for academic purposes only. 
