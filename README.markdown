@@ -2,7 +2,7 @@
 
 ## Project Overview
 The Elderly Healthcare Telemedical System, is an Arduino-based health monitoring solution tailored for elderly users. It integrates sensors to measure vital signs (heart rate, blood oxygen, temperature, blood pressure), an OLED screen for real-time data display, RFID for user authentication, and ThingSpeak for cloud storage. The system aims to simplify health checkups, reduce hospital visits, and enable remote data access via a website. With a user-friendly interface, it ensures ease of use for elderly patients and efficient data management for healthcare providers.
-
+images/overview.png
 
 ## Core Functionalities
 The system provides the following key features, each designed for simplicity and reliability:
