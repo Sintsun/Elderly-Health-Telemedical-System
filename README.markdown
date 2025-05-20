@@ -33,7 +33,7 @@ The system provides the following key features, each designed for simplicity and
 6. **Cloud Storage and Website**:
    - Uploads health data to ThingSpeak every 60 seconds, stored in user-specific channels.
    - Provides a website for doctors to log in and view real-time or historical data.
-
+![web](images/web.png)
 ## Functional Visuals
 The following images showcase the system’s core functionalities in a grid layout:
 
